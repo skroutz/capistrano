@@ -1,3 +1,7 @@
+## 2.15.9-skr1
+
+* Ruby 3.2 - Fix implicit to_s conversion in formated logger
+
 ## 2.15.9
 
 * Continue if `HOSTROLEFILTER=` is set
